@@ -1,0 +1,23 @@
+package Tnsif_Basic;
+import java.util.*;
+public class Addition {
+// Diclering variable in the argument
+	// procedure run --> run configuration --> 
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner st=new Scanner(System.in);
+		int a = Integer.parseInt(args[0]);
+		int b = Integer.parseInt(args[1]);
+		
+		int c = a+b;
+		System.out.println("Additon of "+a+"+"+b+" is :"+ " "+c);
+		
+		System.out.println("Enter the value of g and h");
+		int g=st.nextInt();
+		int h=st.nextInt();
+		int j=g+h;
+		System.out.println("Value of"+g+"+"+h+" is:"+j);
+
+	}
+
+}
