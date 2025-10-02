@@ -1,0 +1,29 @@
+#controlflow
+package basic.java;
+
+public class controlflow {
+public static void miang(String args[]) {
+	System.out.print("Shohan Ahamed");
+}
+}
+
+#datatype
+package basic.java;
+
+public class datatype {
+public static void main(String args[]) {
+	System.out.print("Hellow world");System.out.println("hi");
+}
+}
+#variable
+package basic.java;
+
+public class variable {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.print("hello");
+
+	}
+
+}
